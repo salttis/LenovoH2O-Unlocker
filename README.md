@@ -9,7 +9,7 @@ To check if your bios is Unlockable by this: search for “cE!” unicode text i
 Alternatively just run it and check...
 
 ## Support/Donate
-*  [Patreon](pateron.com/SmokelessCpu)
+*  [Patreon](https://www.patreon.com/SmokelessCPU)
 
 
 
