@@ -8,6 +8,9 @@
 To check if your bios is Unlockable by this: search for “cE!” unicode text in UEFI tool, if at lest 2 result are found (one on DebugPageDxe and the other on H20FormBrowserDXE), you can give a shot.
 Alternatively just run it and check...
 
+## Question and Techinal discussion (Please keep the "Will this work", away from here)
+You can try to reach me over https://discord.gg/Mj2Zc3jDFW
+
 ## Support/Donate
 *  [Patreon](https://www.patreon.com/SmokelessCPU)
 
